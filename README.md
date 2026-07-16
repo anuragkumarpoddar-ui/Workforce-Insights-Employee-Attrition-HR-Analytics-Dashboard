@@ -241,6 +241,7 @@ This project showcases practical skills in Power BI, Power Query, DAX, data mode
 
 Feedback and suggestions are always welcome.
 
+
 ## Acknowledgement
 
 Special thanks to **Rishabh Mishra** for providing the dataset and the guide.
